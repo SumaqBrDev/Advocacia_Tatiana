@@ -1,0 +1,19 @@
+{
+  "name": "projects/2276849820937029494",
+  "projectId": "2276849820937029494",
+  "title": "Advocacia Tatiana",
+  "visibility": "PRIVATE",
+  "createTime": "2026-04-28T18:30:53.778412Z",
+  "updateTime": "2026-04-28T18:30:53.778412Z",
+  "projectType": "PROJECT_DESIGN",
+  "origin": "STITCH",
+  "designTheme": {
+    "assetId": "fd058aafc4a045c7af48fc8f49141518"
+  },
+  "screens": {
+    "index": "27706e3e1c3a45e6926389ace344d2a5"
+  },
+  "metadata": {
+    "userRole": "OWNER"
+  }
+}
